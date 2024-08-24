@@ -1,0 +1,8 @@
+local whitelisted = {
+  2224592476,
+  277568274,
+  2034150150,
+  2390878758
+}
+
+return whitelisted
